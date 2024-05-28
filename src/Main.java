@@ -14,7 +14,7 @@ public class Main {
         ReportService reportService = new ReportService();
 
         while (!exit) {
-            System.out.println("Seleccione una opción:");
+            System.out.println("Seleccione un servicio:");
             System.out.println("1. Gestionar Citas");
             System.out.println("2. Gestionar Historial Médico Electrónico");
             System.out.println("3. Monitoreo de Salud Remoto");
